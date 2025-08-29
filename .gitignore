@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+*.h5
+*.keras
+data/creditcard.csv
+outputs/models/*
+outputs/plots/*
